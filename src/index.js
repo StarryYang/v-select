@@ -1,1 +1,1 @@
-export default "./v-select";
+export { default } from "./vselect";

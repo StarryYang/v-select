@@ -6,7 +6,7 @@
 
 ```bash
 # install dependencies
-npm install v-select
+npm install --save yh-select
 
 # Template
 <v-select name="school" v-model="school" :sel="school" :options="list" :val="val" :names="name"></v-select>
