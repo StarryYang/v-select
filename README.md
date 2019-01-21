@@ -8,6 +8,10 @@
 # install dependencies
 npm install --save yh-select
 
+# import
+
+import vselect from 'yh-select'
+
 # Template
 <v-select name="school" v-model="school" :sel="school" :options="list" :val="val" :names="name"></v-select>
 
