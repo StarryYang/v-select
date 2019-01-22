@@ -1,7 +1,7 @@
 {
   "name": "yh-select",
   "description": "it is to keep the same displaying on the ios and android",
-  "version": "0.0.8",
+  "version": "1.0.0",
   "author": "starryYang",
   "license": "MIT",
   "main": "dist/index.js",
