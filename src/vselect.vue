@@ -61,7 +61,6 @@ export default {
       this.selFlag = false;
     },
     getV(){
-      console.log(this.selectV,this.names);
       if(this.selectV==''){
         return this.optionsL = this.options;
       }
